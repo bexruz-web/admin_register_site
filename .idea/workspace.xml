@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ba0c962-2f08-4c32-9337-73fc001752be" name="Changes" comment="urls.py has been re-added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2r4dozqfF0LCKCoxUWuf1UcUQ2I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/hp/Documents/Github-projects/admin_register_site",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Python"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\Documents\Github-projects\admin_register_site" />
+      <recent name="C:\Users\hp\Documents\Github-projects\admin_register_site\static" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ba0c962-2f08-4c32-9337-73fc001752be" name="Changes" comment="" />
+      <created>1735822460391</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735822460391</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added requirements.txt">
+      <option name="closed" value="true" />
+      <created>1735822718620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735822718620</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Configuration package (config) for the Django project&quot;">
+      <option name="closed" value="true" />
+      <created>1735825703414</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735825703415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added manage.py">
+      <option name="closed" value="true" />
+      <created>1735825762531</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735825762531</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added new app">
+      <option name="closed" value="true" />
+      <created>1735826225314</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735826225314</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added assets to static files">
+      <option name="closed" value="true" />
+      <created>1735827310516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735827310516</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added template files">
+      <option name="closed" value="true" />
+      <created>1735827532095</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735827532095</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Configured settings.py and urls.py in the config">
+      <option name="closed" value="true" />
+      <created>1735828227508</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735828227508</updated>
+    </task>
+    <task id="LOCAL-00008" summary="views.py has been completed">
+      <option name="closed" value="true" />
+      <created>1735838585653</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735838585653</updated>
+    </task>
+    <task id="LOCAL-00009" summary="views.py has been completed">
+      <option name="closed" value="true" />
+      <created>1735838791974</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735838791974</updated>
+    </task>
+    <task id="LOCAL-00010" summary="urls.py has been re-added">
+      <option name="closed" value="true" />
+      <created>1735839720472</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735839720472</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added requirements.txt" />
+    <MESSAGE value="&quot;Configuration package (config) for the Django project&quot;" />
+    <MESSAGE value="added manage.py" />
+    <MESSAGE value="added new app" />
+    <MESSAGE value="Added assets to static files" />
+    <MESSAGE value="Added template files" />
+    <MESSAGE value="Configured settings.py and urls.py in the config" />
+    <MESSAGE value="views.py has been completed" />
+    <MESSAGE value="urls.py has been re-added" />
+    <option name="LAST_COMMIT_MESSAGE" value="urls.py has been re-added" />
+  </component>
+</project>
